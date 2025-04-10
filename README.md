@@ -62,13 +62,13 @@ Digital Pathshala addresses the barrier of expensive technical education by offe
 ## Screenshots
 
 **Homepage Banner:**
-![Banner](https://www.digitalpathshalanepal.com/images/slide/slide-1.jpg)
+![Banner](https://i.ibb.co/VWbph5bL/image.png)
 
 **Popular Courses Section:**
-![Courses](https://www.digitalpathshalanepal.com/images/course/course-1.jpg)
+![Courses](https://i.ibb.co/HLP2yVgB/image.png)
 
 **Gallery Preview:**
-![Gallery](https://www.digitalpathshalanepal.com/images/gallery/gallery-1.jpg)
+![Gallery](https://i.postimg.cc/mZvJH4gN/image.png)
 
 > Visit the full website for more visuals: [digitalpathshalanepal.com](https://www.digitalpathshalanepal.com)
 
