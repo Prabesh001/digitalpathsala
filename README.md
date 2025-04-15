@@ -11,7 +11,6 @@
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -74,11 +73,6 @@ Digital Pathshala addresses the barrier of expensive technical education by offe
 ![Gallery](https://i.postimg.cc/mZvJH4gN/image.png)
 
 > Visit the full website for more visuals: [digitalpathshalanepal.com](https://www.digitalpathshalanepal.com)
-
----
-## License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
